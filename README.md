@@ -3,7 +3,7 @@
 </div>
 
 ## 🙌 Introduction
-안녕하세요, 주니어 개발자 노유민입니다.
+안녕하세요! 주니어 개발자 노유민입니다.
 
 <!-- 📜 Certifications -->
 <b>📜 Certifications & Scores (자격/어학)</b>
