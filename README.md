@@ -14,17 +14,6 @@
 - AWS Certified Solutions Architect – Associate — <sub>2024.08</sub>  
 - ADsP (데이터분석 준전문가) — <sub>2025.09</sub>  
 
-
-<!-- 🎓 Education -->
-  <b>🎓 Education (학력·교육)</b>
-
-- 운정고등학교 졸업 — <sub>2013.03 – 2016.02</sub>  
-- 한국외국어대학교 입학 — <sub>2016.03</sub>  
-- 코리아IT아카데미 — <sub>2020.04 – 2021.04</sub>  
-- 한국외국어대학교 졸업 — <sub>2023.08</sub>  
-- 한국소프트웨어산업협회 MSA 기반 Full Stack 개발 전문가 양성과정 — <sub>2023.03 – 2023.10</sub>  
-- 대한상공회의소 디지털 하나로 — <sub>2025.03 – 2025.09</sub>  
-
 ## 🛠️ Tech Stacks
 
 ### 🔤 Languages & Markup
